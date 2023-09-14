@@ -1,0 +1,6 @@
+framework module Pods_VolleyBallAPI {
+  umbrella header "Pods-VolleyBallAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
